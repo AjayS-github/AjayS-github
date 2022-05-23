@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AjayS-github
+- 👋 Hi, I’m Ajay (@AjayS-github).
 - 👀 I’m interested in physics, mathematics, life sciences, etc.
 - 🌱 I’m currently learning Astrophysics.
 - 📫 How to reach me ajaysrinivasalu@gmail.com
