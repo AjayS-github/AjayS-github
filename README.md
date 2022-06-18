@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay (@AjayS-github).
-- 👀 I’m interested in physics, mathematics, life sciences, etc.
-- 🌱 I’m currently learning Astrophysics.
+- 👀 I’m interested in physics.
+- 🌱 I’m currently learning Solid State Physics.
 - 📫 How to reach me ajaysrinivasalu@gmail.com
 - Checkout my programs in the code section on Physics.
