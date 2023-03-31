@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ajay (@AjayS-github).
-- 👀 I’m interested in physics.
-- 🌱 I’m currently learning Solid State Physics.
-- 📫 How to reach me ajaysrinivasalu@gmail.com
+- I am a Physics research scholar in Ramaiah University of Applied Sciences.
+- 👀 I’m interested in Physics.
+- 🌱 I’m currently studying Quantum Information Theory.
+- 📫 How to reach me ajaysrinivasalu@gmail.com or ajay.s@msruas.ac.in
 - Checkout my programs in the code section on Physics.
